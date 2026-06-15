@@ -1,0 +1,94 @@
+python
+java
+c
+c++
+c#
+r
+php
+javascript
+typescript
+
+html
+css
+bootstrap
+jquery
+react
+angular
+vue.js
+nodejs
+express.js
+django
+flask
+mvc
+
+sql
+mysql
+postgresql
+oracle
+mongodb
+sqlite
+
+machine learning
+deep learning
+artificial intelligence
+natural language processing
+computer vision
+data analysis
+data mining
+statistics
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+pytorch
+
+power bi
+tableau
+excel
+
+aws
+azure
+gcp
+docker
+kubernetes
+jenkins
+git
+github
+linux
+unix
+
+hadoop
+spark
+hive
+
+etl
+informatica
+data warehouse
+
+sap
+sap hana
+
+cisco
+network security
+firewall
+routing
+switching
+vpn
+
+selenium
+manual testing
+automation testing
+junit
+testng
+
+blockchain
+ethereum
+smart contracts
+
+shell scripting
+bash
+agile
+scrum
+rest api
+microservices
