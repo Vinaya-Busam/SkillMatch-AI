@@ -10,7 +10,7 @@
 
 **Dataset Source :** [Updated Resume Dataset](https://www.kaggle.com/datasets/jillanisofttech/updated-resume-dataset) 
 
-### Features
+## Features
 - Resume Text Extraction
 - Resume Classification using Machine Learning
 - Skill Identification
@@ -19,10 +19,20 @@
 - Missing Skill Detection
 - Interactive Streamlit Web Application
 
-### Model Performance
+## Model Performance
 
 | Metric | Value |
 |----------|----------|
 | Training Accuracy | 99.74% |
 | Testing Accuracy | 99.48% |
 
+
+## Application Screenshots
+
+### Homepage
+
+![Homepage](Images/Homepage.png)
+
+### Output
+![Output](Images/Output_1.png)
+![](Images/Output_2.png)
