@@ -10,7 +10,8 @@
 
 **Dataset Source :** [Updated Resume Dataset](https://www.kaggle.com/datasets/jillanisofttech/updated-resume-dataset) 
 
-[Try SkillMatch](https://resumeskillmatch.streamlit.app/)
+
+**🚀 Try SkillMatch-AI :**  [**Click here**](https://resumeskillmatch.streamlit.app/)
 
 ## Features
 - Resume Text Extraction
